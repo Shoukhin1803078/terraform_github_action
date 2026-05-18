@@ -35,14 +35,11 @@ docker-data/
 *.tfstate
 *.tfstate.*
 *.tfvars
-
-# Crash logs
-crash.log
-
-# Terraform directories
 .terraform/
 .terraform.lock.hcl
 
+# Crash logs
+crash.log
 # Plan files (optional but recommended)
 *.tfplan
 
